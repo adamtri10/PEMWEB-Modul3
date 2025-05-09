@@ -1,0 +1,23 @@
+
+/* ID Selector */
+#judul_utama {
+    color: #8a2be2; /* Warna ungu */
+    font-family: Arial, sans-serif;
+  }
+  
+  #paragraf_pembuka {
+    font-size: 18px;
+    color: #2e8b57; /* Warna hijau */
+    font-weight: bold;
+  }
+  
+  /* Class Selector (sebagai perbandingan) */
+  .teks_biasa {
+    font-style: italic;
+    color: #333;
+  }
+
+
+
+
+ 
